@@ -1,2 +1,2 @@
 # training123
-echo "Welcome to DevOps"
+eho "Welcome to DevOps"
